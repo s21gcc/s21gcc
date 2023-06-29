@@ -1,6 +1,7 @@
 ## Welcome to my page, I'm Rodion
 
 Contact: [Telegram](https://t.me/oznakban)
+
 Gmail: shlykovrod@gmail.com
 
 ### My projects:
